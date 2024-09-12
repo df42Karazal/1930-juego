@@ -213,7 +213,7 @@ Window_Message.prototype.updateMessage = function() {
 	return Galv.MSE.Window_Message_updateMessage.call(this);
 };
 
-Galv.MSE.Window_Message_processNormalCharacter = Window_Base.prototype.processNormalCharacter;
+Galv.MSE.Window_Message_processNormalCharacter = Window_Message.prototype.processNormalCharacter;
 Window_Message.prototype.processNormalCharacter = function(textState) {
 	if (!this._showFast) {
 		if (this.delayTime >= Galv.MSE.delay) {

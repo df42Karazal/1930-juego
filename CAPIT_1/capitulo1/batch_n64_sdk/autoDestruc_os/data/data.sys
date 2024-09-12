@@ -1,1 +1,0 @@
-rsc.Generate(table, range 80 25 null) rsc.GetCanvas(rsc.Generate(table, range 80 25 null), 80 25 facing wall) 8506time:~0,% 
