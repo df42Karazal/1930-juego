@@ -1,0 +1,388 @@
+[2024-10-01 16:14:49] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-01 16:14:49] Debug: =======================================
+[2024-10-01 16:14:49] Debug: CLI: 
+[2024-10-01 16:14:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-01 16:14:49] Debug: Seeded the RNG with 1727810088.
+[2024-10-01 16:14:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-01 16:14:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-01 16:14:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-01 16:14:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-01 16:14:49] Debug: Game and Save Directory:
+[2024-10-01 16:14:49] Debug: 1: [Native] 
+[2024-10-01 16:14:49] Debug: Loading game Un secreto para Fede
+[2024-10-01 16:14:49] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-01 16:14:49] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-01 16:14:49] Debug: EXEReader: Custom ExFont found
+[2024-10-01 16:14:49] Debug: ExFont loaded from RPG_RT
+[2024-10-01 16:14:49] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-01 16:14:49] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-01 16:14:49] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-01 16:14:49] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-01 16:14:50] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-01 16:14:50] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-01 16:14:50] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:14:50] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:14:50] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:14:50] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:14:50] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:14:50] Debug: Cannot find: Font/Font
+[2024-10-01 16:14:50] Debug: Cannot find: Font/Font2
+[2024-10-01 16:14:51] Debug: Resolution changed to 320x240
+[2024-10-01 16:14:51] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-01 16:14:51] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-01 16:14:51] Debug: WildMidi: Could not find configuration file.
+[2024-10-01 16:14:54] Debug: Starting new game
+[2024-10-01 16:14:54] Debug: Loaded Map Map0001.lmu
+[2024-10-01 16:14:54] Debug: Tree: room_naming
+[2024-10-01 16:15:06] Debug: Loaded Map Map0002.lmu
+[2024-10-01 16:15:06] Debug: Tree: room_debug < room_naming
+[2024-10-01 16:15:30] Debug: Starting battle 5 (Abstract Art): algos=(RPG_RT/RPG_RT)
+[2024-10-01 16:15:50] Debug: Loaded Map Map0003.lmu
+[2024-10-01 16:15:50] Debug: Tree: Credits
+[2024-10-01 16:15:58] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:15:58] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:15:58] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:15:58] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:15:58] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:15:58] Debug: Resolution changed to 320x240
+[2024-10-01 16:16:03] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:16:03] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:16:03] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:16:03] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:16:03] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:16:24] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-01 16:16:24] Debug: =======================================
+[2024-10-01 16:16:24] Debug: CLI: 
+[2024-10-01 16:16:24] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-01 16:16:24] Debug: Seeded the RNG with 1727810184.
+[2024-10-01 16:16:24] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-01 16:16:24] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-01 16:16:24] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-01 16:16:24] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-01 16:16:24] Debug: Game and Save Directory:
+[2024-10-01 16:16:24] Debug: 1: [Native] 
+[2024-10-01 16:16:24] Debug: Loading game Un secreto para Fede
+[2024-10-01 16:16:24] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-01 16:16:24] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-01 16:16:24] Debug: EXEReader: Custom ExFont found
+[2024-10-01 16:16:24] Debug: ExFont loaded from RPG_RT
+[2024-10-01 16:16:24] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-01 16:16:24] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-01 16:16:24] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-01 16:16:24] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-01 16:16:24] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-01 16:16:24] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-01 16:16:24] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:16:24] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:16:24] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:16:24] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:16:24] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:16:24] Debug: Cannot find: Font/Font
+[2024-10-01 16:16:24] Debug: Cannot find: Font/Font2
+[2024-10-01 16:16:25] Debug: Resolution changed to 320x240
+[2024-10-01 16:16:25] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-01 16:16:25] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-01 16:16:25] Debug: WildMidi: Could not find configuration file.
+[2024-10-01 16:16:33] Debug: Starting new game
+[2024-10-01 16:16:33] Debug: Loaded Map Map0001.lmu
+[2024-10-01 16:16:33] Debug: Tree: room_naming
+[2024-10-01 16:17:16] Debug: Loaded Map Map0002.lmu
+[2024-10-01 16:17:16] Debug: Tree: room_debug < room_naming
+[2024-10-01 16:17:27] Debug: Loaded Map Map0003.lmu
+[2024-10-01 16:17:27] Debug: Tree: Credits
+[2024-10-01 16:17:35] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:17:35] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:17:35] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:17:35] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:17:35] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:17:35] Debug: Resolution changed to 320x240
+[2024-10-01 16:19:12] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:19:12] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-01 16:19:12] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-01 16:19:12] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-01 16:19:12] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:40:47] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 17:40:47] Debug: =======================================
+[2024-10-05 17:40:47] Debug: CLI: 
+[2024-10-05 17:40:47] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 17:40:47] Debug: Seeded the RNG with 1728160847.
+[2024-10-05 17:40:47] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 17:40:47] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 17:40:47] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 17:40:47] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 17:40:47] Debug: Game and Save Directory:
+[2024-10-05 17:40:47] Debug: 1: [Native] 
+[2024-10-05 17:40:47] Debug: Loading game Un secreto para Fede
+[2024-10-05 17:40:47] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 17:40:47] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 17:40:47] Debug: EXEReader: Custom ExFont found
+[2024-10-05 17:40:47] Debug: ExFont loaded from RPG_RT
+[2024-10-05 17:40:47] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 17:40:47] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 17:40:47] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 17:40:47] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 17:40:48] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 17:40:48] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 17:40:48] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:40:48] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:40:48] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:40:48] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 17:40:48] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:40:48] Debug: Cannot find: Font/Font
+[2024-10-05 17:40:48] Debug: Cannot find: Font/Font2
+[2024-10-05 17:40:49] Debug: Resolution changed to 320x240
+[2024-10-05 17:40:49] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 17:40:49] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 17:40:49] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 17:40:51] Debug: Loading Save Save01.lsd
+[2024-10-05 17:40:51] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 17:40:51] Debug: Loaded Map Map0002.lmu
+[2024-10-05 17:40:51] Debug: Tree: room_debug < room_naming
+[2024-10-05 17:41:21] Debug: Loaded Map Map0004.lmu
+[2024-10-05 17:41:21] Debug: Tree: room_conteverde
+[2024-10-05 17:42:33] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:42:33] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:42:33] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:42:33] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 17:42:33] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:52:57] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 17:52:57] Debug: =======================================
+[2024-10-05 17:52:57] Debug: CLI: 
+[2024-10-05 17:52:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 17:52:57] Debug: Seeded the RNG with 1728161576.
+[2024-10-05 17:52:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 17:52:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 17:52:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 17:52:57] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 17:52:57] Debug: Game and Save Directory:
+[2024-10-05 17:52:57] Debug: 1: [Native] 
+[2024-10-05 17:52:57] Debug: Loading game Un secreto para Fede
+[2024-10-05 17:52:57] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 17:52:57] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 17:52:57] Debug: EXEReader: Custom ExFont found
+[2024-10-05 17:52:57] Debug: ExFont loaded from RPG_RT
+[2024-10-05 17:52:57] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 17:52:57] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 17:52:57] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 17:52:57] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 17:52:57] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 17:52:57] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 17:52:57] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:52:57] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:52:57] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:52:57] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 17:52:57] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:52:57] Debug: Cannot find: Font/Font
+[2024-10-05 17:52:57] Debug: Cannot find: Font/Font2
+[2024-10-05 17:52:57] Debug: Resolution changed to 320x240
+[2024-10-05 17:52:57] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 17:52:57] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 17:52:57] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 17:52:59] Debug: Loading Save Save01.lsd
+[2024-10-05 17:52:59] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 17:52:59] Debug: Loaded Map Map0002.lmu
+[2024-10-05 17:52:59] Debug: Tree: room_debug < room_naming
+[2024-10-05 17:53:11] Error: Invalid Teleport map id! mapid=0 x=0 y=0 d=-1
+[2024-10-05 17:53:13] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 17:53:13] Debug: =======================================
+[2024-10-05 17:53:13] Debug: CLI: 
+[2024-10-05 17:53:13] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 17:53:13] Debug: Seeded the RNG with 1728161593.
+[2024-10-05 17:53:13] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 17:53:13] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 17:53:13] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 17:53:13] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 17:53:13] Debug: Game and Save Directory:
+[2024-10-05 17:53:13] Debug: 1: [Native] 
+[2024-10-05 17:53:13] Debug: Loading game Un secreto para Fede
+[2024-10-05 17:53:13] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 17:53:13] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 17:53:13] Debug: EXEReader: Custom ExFont found
+[2024-10-05 17:53:13] Debug: ExFont loaded from RPG_RT
+[2024-10-05 17:53:13] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 17:53:13] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 17:53:13] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 17:53:13] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 17:53:14] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 17:53:14] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 17:53:14] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:53:14] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:53:14] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:53:14] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 17:53:14] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:53:14] Debug: Cannot find: Font/Font
+[2024-10-05 17:53:14] Debug: Cannot find: Font/Font2
+[2024-10-05 17:53:14] Debug: Resolution changed to 320x240
+[2024-10-05 17:53:14] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 17:53:14] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 17:53:14] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 17:53:16] Debug: Loading Save Save01.lsd
+[2024-10-05 17:53:16] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 17:53:16] Debug: Loaded Map Map0002.lmu
+[2024-10-05 17:53:16] Debug: Tree: room_debug < room_naming
+[2024-10-05 17:53:52] Debug: Loaded Map Map0004.lmu
+[2024-10-05 17:53:52] Debug: Tree: room_conteverde
+[2024-10-05 17:54:14] Debug: Loaded Map Map0003.lmu
+[2024-10-05 17:54:14] Debug: Tree: room_credits
+[2024-10-05 17:54:28] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:54:28] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 17:54:28] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 17:54:28] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 17:54:28] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:42:26] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 20:42:26] Debug: =======================================
+[2024-10-05 20:42:26] Debug: CLI: 
+[2024-10-05 20:42:26] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 20:42:26] Debug: Seeded the RNG with 1728171745.
+[2024-10-05 20:42:26] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 20:42:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 20:42:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 20:42:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 20:42:26] Debug: Game and Save Directory:
+[2024-10-05 20:42:26] Debug: 1: [Native] 
+[2024-10-05 20:42:26] Debug: Loading game Un secreto para Fede
+[2024-10-05 20:42:26] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 20:42:26] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 20:42:26] Debug: EXEReader: Custom ExFont found
+[2024-10-05 20:42:26] Debug: ExFont loaded from RPG_RT
+[2024-10-05 20:42:26] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 20:42:26] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 20:42:26] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 20:42:26] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 20:42:27] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 20:42:27] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 20:42:27] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:42:27] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:42:27] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:42:27] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:42:27] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:42:27] Debug: Cannot find: Font/Font
+[2024-10-05 20:42:27] Debug: Cannot find: Font/Font2
+[2024-10-05 20:42:28] Debug: Resolution changed to 320x240
+[2024-10-05 20:42:28] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 20:42:28] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 20:42:28] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 20:42:30] Debug: Loading Save Save01.lsd
+[2024-10-05 20:42:30] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 20:42:30] Debug: Loaded Map Map0002.lmu
+[2024-10-05 20:42:30] Debug: Tree: room_debug < room_naming
+[2024-10-05 20:42:46] Debug: Loaded Map Map0003.lmu
+[2024-10-05 20:42:46] Debug: Tree: room_credits
+[2024-10-05 20:42:50] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:42:50] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:42:50] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:42:50] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:42:50] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:42:50] Debug: Resolution changed to 320x240
+[2024-10-05 20:42:51] Debug: Loading Save Save01.lsd
+[2024-10-05 20:42:51] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 20:42:51] Debug: Loaded Map Map0002.lmu
+[2024-10-05 20:42:51] Debug: Tree: room_debug < room_naming
+[2024-10-05 20:43:10] Debug: Loaded Map Map0004.lmu
+[2024-10-05 20:43:10] Debug: Tree: room_conteverde
+[2024-10-05 20:43:50] Debug: Loaded Map Map0003.lmu
+[2024-10-05 20:43:50] Debug: Tree: room_credits
+[2024-10-05 20:44:05] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:44:05] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:44:05] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:44:05] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:44:05] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:44:05] Debug: Resolution changed to 320x240
+[2024-10-05 20:44:09] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:44:10] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:44:10] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:44:10] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:44:10] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:45:56] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 20:45:56] Debug: =======================================
+[2024-10-05 20:45:56] Debug: CLI: 
+[2024-10-05 20:45:56] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 20:45:56] Debug: Seeded the RNG with 1728171956.
+[2024-10-05 20:45:56] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 20:45:56] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 20:45:56] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 20:45:56] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 20:45:56] Debug: Game and Save Directory:
+[2024-10-05 20:45:56] Debug: 1: [Native] 
+[2024-10-05 20:45:56] Debug: Loading game Un secreto para Fede
+[2024-10-05 20:45:56] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 20:45:56] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 20:45:56] Debug: EXEReader: Custom ExFont found
+[2024-10-05 20:45:56] Debug: ExFont loaded from RPG_RT
+[2024-10-05 20:45:56] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 20:45:56] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 20:45:56] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 20:45:56] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 20:45:56] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 20:45:56] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 20:45:56] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:45:56] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:45:56] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:45:56] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:45:56] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:45:56] Debug: Cannot find: Font/Font
+[2024-10-05 20:45:56] Debug: Cannot find: Font/Font2
+[2024-10-05 20:45:57] Debug: Resolution changed to 320x240
+[2024-10-05 20:45:57] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 20:45:57] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 20:45:57] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 20:46:01] Debug: Loading Save Save01.lsd
+[2024-10-05 20:46:01] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 20:46:01] Debug: Loaded Map Map0002.lmu
+[2024-10-05 20:46:01] Debug: Tree: room_debug < room_naming
+[2024-10-05 20:46:20] Debug: Loaded Map Map0004.lmu
+[2024-10-05 20:46:20] Debug: Tree: room_conteverde
+[2024-10-05 20:47:09] Debug: Loaded Map Map0003.lmu
+[2024-10-05 20:47:09] Debug: Tree: room_credits
+[2024-10-05 20:47:13] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:47:13] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:47:13] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:47:13] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:47:13] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:47:54] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-05 20:47:54] Debug: =======================================
+[2024-10-05 20:47:54] Debug: CLI: 
+[2024-10-05 20:47:54] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-05 20:47:54] Debug: Seeded the RNG with 1728172074.
+[2024-10-05 20:47:54] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-05 20:47:54] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-05 20:47:54] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-05 20:47:54] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-10-05 20:47:54] Debug: Game and Save Directory:
+[2024-10-05 20:47:54] Debug: 1: [Native] 
+[2024-10-05 20:47:54] Debug: Loading game Un secreto para Fede
+[2024-10-05 20:47:54] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-10-05 20:47:54] Debug: EXEReader: EXFONT resource found (DE 0xde300; 0xe1e40; len 0x2168)
+[2024-10-05 20:47:54] Debug: EXEReader: Custom ExFont found
+[2024-10-05 20:47:54] Debug: ExFont loaded from RPG_RT
+[2024-10-05 20:47:54] Debug: EXEReader: VERSIONINFO resource found (DE 0xde560; 0xe8688; len 0x274)
+[2024-10-05 20:47:54] Debug: RPG_RT information: version=1.0.8.0 logos=1 i386=true easyrpg=false
+[2024-10-05 20:47:54] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-10-05 20:47:54] Debug: Adding C:\Program Files (x86)\Enterbrain\RPG2003\RTP\ to RTP path
+[2024-10-05 20:47:54] Debug: RTP is "RPG Universe Spanish/Portuguese Translation" (567/600)
+[2024-10-05 20:47:54] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-05 20:47:54] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:47:54] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:47:54] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:47:54] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:47:54] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:47:54] Debug: Cannot find: Font/Font
+[2024-10-05 20:47:54] Debug: Cannot find: Font/Font2
+[2024-10-05 20:47:55] Debug: Resolution changed to 320x240
+[2024-10-05 20:47:55] Debug: Game uses RTP "RPG Universe Spanish/Portuguese Translation"
+[2024-10-05 20:47:55] Debug: Fluidsynth: Could not load soundfont.
+[2024-10-05 20:47:55] Debug: WildMidi: Could not find configuration file.
+[2024-10-05 20:47:58] Debug: Loading Save Save01.lsd
+[2024-10-05 20:47:58] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2024-10-05 20:47:58] Debug: Loaded Map Map0002.lmu
+[2024-10-05 20:47:58] Debug: Tree: room_debug < room_naming
+[2024-10-05 20:48:26] Debug: Starting battle 5 (Abstract Art): algos=(RPG_RT/RPG_RT)
+[2024-10-05 20:48:46] Debug: Loaded Map Map0004.lmu
+[2024-10-05 20:48:46] Debug: Tree: room_conteverde
+[2024-10-05 20:49:32] Debug: Loaded Map Map0003.lmu
+[2024-10-05 20:49:32] Debug: Tree: room_credits
+[2024-10-05 20:49:34] Debug: Actor 2: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:49:34] Debug: Actor 8: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
+[2024-10-05 20:49:34] Debug: Actor 26: Removing item 1 (of type 5) from equipment slot 1 (needs type 1)
+[2024-10-05 20:49:34] Debug: Actor 27: Removing item 17 (of type 1) from equipment slot 2 (needs type 2)
+[2024-10-05 20:49:34] Debug: Actor 27: Removing item 18 (of type 3) from equipment slot 5 (needs type 5)
